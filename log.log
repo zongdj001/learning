@@ -1,0 +1,84 @@
+2018-09-30 23:25:42  [ Thread-2:0 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run
+2018-09-30 23:25:42  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run
+2018-09-30 23:25:42  [ Thread-1:0 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run
+2018-09-30 23:25:45  [ Thread-2:2999 ] - [ INFO ]  Thread - Thread-2 is start running
+2018-09-30 23:25:45  [ Thread-1:2999 ] - [ INFO ]  Thread - Thread-1 is start running
+2018-09-30 23:25:45  [ Thread-0:2999 ] - [ INFO ]  Thread - Thread-0 is start running
+2018-09-30 23:28:46  [ Thread-2:0 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run
+2018-09-30 23:28:46  [ Thread-1:0 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run
+2018-09-30 23:28:46  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run
+2018-09-30 23:28:49  [ Thread-2:2999 ] - [ INFO ]  Thread - Thread-2 is start running
+2018-09-30 23:28:49  [ Thread-0:2999 ] - [ INFO ]  Thread - Thread-0 is start running
+2018-09-30 23:28:49  [ Thread-1:2999 ] - [ INFO ]  Thread - Thread-1 is start running
+2018-09-30 23:29:31  [ Thread-2:0 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run
+2018-09-30 23:29:31  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run
+2018-09-30 23:29:31  [ Thread-1:0 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run
+2018-09-30 23:29:31  [ Thread-0:1 ] - [ INFO ]  Thread - Thread-0 is start running
+2018-09-30 23:29:31  [ Thread-2:1 ] - [ INFO ]  Thread - Thread-2 is start running
+2018-09-30 23:29:31  [ Thread-1:1 ] - [ INFO ]  Thread - Thread-1 is start running
+2018-09-30 23:30:15  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run
+2018-09-30 23:30:15  [ Thread-2:0 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run
+2018-09-30 23:30:15  [ Thread-1:0 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run
+2018-09-30 23:30:15  [ Thread-2:0 ] - [ INFO ]  Thread - Thread-2 is start running
+2018-09-30 23:30:15  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is start running
+2018-09-30 23:30:15  [ Thread-1:0 ] - [ INFO ]  Thread - Thread-1 is start running
+2018-09-30 23:34:54  [ Thread-1:0 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run from time
+2018-09-30 23:34:54  [ Thread-0:1 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run from time
+2018-09-30 23:34:54  [ Thread-2:0 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run from time
+2018-09-30 23:34:57  [ Thread-1:3000 ] - [ INFO ]  Thread - Thread-1 is start running at time 1538321697968
+2018-09-30 23:34:57  [ Thread-0:3000 ] - [ INFO ]  Thread - Thread-0 is start running at time 1538321697968
+2018-09-30 23:34:57  [ Thread-2:3000 ] - [ INFO ]  Thread - Thread-2 is start running at time 1538321697968
+2018-09-30 23:35:14  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run from time 1538321714126
+2018-09-30 23:35:14  [ Thread-2:0 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run from time 1538321714126
+2018-09-30 23:35:14  [ Thread-1:0 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run from time 1538321714126
+2018-09-30 23:35:17  [ Thread-0:2999 ] - [ INFO ]  Thread - Thread-0 is start running at time 1538321717126
+2018-09-30 23:35:17  [ Thread-1:2999 ] - [ INFO ]  Thread - Thread-1 is start running at time 1538321717126
+2018-09-30 23:35:17  [ Thread-2:2999 ] - [ INFO ]  Thread - Thread-2 is start running at time 1538321717126
+2018-09-30 23:35:58  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run from time 1538321758309
+2018-09-30 23:36:01  [ Thread-1:2998 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run from time 1538321761309
+2018-09-30 23:36:01  [ Thread-2:2998 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run from time 1538321761309
+2018-09-30 23:36:04  [ Thread-0:5998 ] - [ INFO ]  Thread - Thread-0 is start running at time 1538321764309
+2018-09-30 23:36:04  [ Thread-2:5998 ] - [ INFO ]  Thread - Thread-2 is start running at time 1538321764309
+2018-09-30 23:36:04  [ Thread-1:5998 ] - [ INFO ]  Thread - Thread-1 is start running at time 1538321764309
+2018-09-30 23:36:59  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run from time 552278755645768
+2018-09-30 23:37:02  [ Thread-1:2998 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run from time 552281755529866
+2018-09-30 23:37:02  [ Thread-2:2998 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run from time 552281755776393
+2018-09-30 23:37:05  [ Thread-0:5998 ] - [ INFO ]  Thread - Thread-0 is start running at time 552284754828416
+2018-09-30 23:37:05  [ Thread-2:5998 ] - [ INFO ]  Thread - Thread-2 is start running at time 552284754852578
+2018-09-30 23:37:05  [ Thread-1:5998 ] - [ INFO ]  Thread - Thread-1 is start running at time 552284754847293
+2018-09-30 23:45:33  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run from time 552792850360427
+2018-09-30 23:45:36  [ Thread-1:2998 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run from time 552795849424909
+2018-09-30 23:45:36  [ Thread-2:2998 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run from time 552795849547606
+2018-09-30 23:45:36  [ Thread-2:2998 ] - [ INFO ]  Thread - Thread-2 is start running at time 552795849942124
+2018-09-30 23:45:36  [ Thread-0:2999 ] - [ INFO ]  Thread - Thread-0 is start running at time 552795849982520
+2018-09-30 23:45:36  [ Thread-1:2999 ] - [ INFO ]  Thread - Thread-1 is start running at time 552795849996111
+2018-09-30 23:45:39  [ Thread-3:6000 ] - [ INFO ]  Thread - Thread-3 is ready and wait for run from time 552798850908600
+2018-09-30 23:45:42  [ Thread-4:9000 ] - [ INFO ]  Thread - Thread-4 is ready and wait for run from time 552801850572976
+2018-09-30 23:45:42  [ Thread-5:9000 ] - [ INFO ]  Thread - Thread-5 is ready and wait for run from time 552801850983351
+2018-09-30 23:45:45  [ Thread-3:12000 ] - [ INFO ]  Thread - Thread-3 is start running at time 552804849867373
+2018-09-30 23:45:45  [ Thread-4:12000 ] - [ INFO ]  Thread - Thread-4 is start running at time 552804849874924
+2018-09-30 23:45:45  [ Thread-5:12000 ] - [ INFO ]  Thread - Thread-5 is start running at time 552804849883230
+2018-09-30 23:46:29  [ Thread-0:0 ] - [ INFO ]  Thread - Thread-0 is ready and wait for run from time 552849387025737
+2018-09-30 23:46:32  [ Thread-1:2998 ] - [ INFO ]  Thread - Thread-1 is ready and wait for run from time 552852386721826
+2018-09-30 23:46:32  [ Thread-2:2998 ] - [ INFO ]  Thread - Thread-2 is ready and wait for run from time 552852386842635
+2018-09-30 23:46:32  [ Thread-2:2998 ] - [ INFO ]  Thread - Thread-2 is start running at time 552852387102376
+2018-09-30 23:46:32  [ Thread-0:2998 ] - [ INFO ]  Thread - Thread-0 is start running at time 552852387140884
+2018-09-30 23:46:32  [ Thread-1:2998 ] - [ INFO ]  Thread - Thread-1 is start running at time 552852387153342
+2018-09-30 23:46:35  [ Thread-3:6000 ] - [ INFO ]  Thread - Thread-3 is ready and wait for run from time 552855387983153
+2018-09-30 23:46:38  [ Thread-4:9000 ] - [ INFO ]  Thread - Thread-4 is ready and wait for run from time 552858387893678
+2018-09-30 23:46:38  [ Thread-5:9000 ] - [ INFO ]  Thread - Thread-5 is ready and wait for run from time 552858388085086
+2018-09-30 23:46:41  [ Thread-3:12000 ] - [ INFO ]  Thread - Thread-3 is start running at time 552861387139751
+2018-09-30 23:46:41  [ Thread-4:12000 ] - [ INFO ]  Thread - Thread-4 is start running at time 552861387147302
+2018-09-30 23:46:41  [ Thread-5:12000 ] - [ INFO ]  Thread - Thread-5 is start running at time 552861387155985
+2018-09-30 23:48:14  [ barrier-1:0 ] - [ INFO ]  Thread - barrier-1 is ready and wait for run from time 552953859076456
+2018-09-30 23:48:17  [ barrier-2:2998 ] - [ INFO ]  Thread - barrier-2 is ready and wait for run from time 552956858643807
+2018-09-30 23:48:17  [ barrier-3:2998 ] - [ INFO ]  Thread - barrier-3 is ready and wait for run from time 552956858813318
+2018-09-30 23:48:17  [ barrier-3:2999 ] - [ INFO ]  Thread - barrier-3 is start running at time 552956859133463
+2018-09-30 23:48:17  [ barrier-2:2999 ] - [ INFO ]  Thread - barrier-2 is start running at time 552956859187827
+2018-09-30 23:48:17  [ barrier-1:2999 ] - [ INFO ]  Thread - barrier-1 is start running at time 552956859160268
+2018-09-30 23:48:20  [ countdown-1:6000 ] - [ INFO ]  Thread - countdown-1 is ready and wait for run from time 552959860074645
+2018-09-30 23:48:23  [ countdown-2:9000 ] - [ INFO ]  Thread - countdown-2 is ready and wait for run from time 552962859882105
+2018-09-30 23:48:23  [ countdown-3:9000 ] - [ INFO ]  Thread - countdown-3 is ready and wait for run from time 552962860150528
+2018-09-30 23:48:26  [ countdown-1:12000 ] - [ INFO ]  Thread - countdown-1 is start running at time 552965858919404
+2018-09-30 23:48:26  [ countdown-3:12000 ] - [ INFO ]  Thread - countdown-3 is start running at time 552965858972635
+2018-09-30 23:48:26  [ countdown-2:12000 ] - [ INFO ]  Thread - countdown-2 is start running at time 552965858955269
